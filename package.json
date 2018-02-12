@@ -1,0 +1,9 @@
+{
+  "name": "griffinblack-travel",
+  "version": "1.0.0",
+  "homepage": "https://github.com/toddblack/griffinBlack-travel#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
